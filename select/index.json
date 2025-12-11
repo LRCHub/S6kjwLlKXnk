@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "夢灯籠",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-11T09:47:21.035261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dream Lantern  夢灯籠",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_Dream_Lantern_夢灯籠_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢灯籠 - Dream Lantern",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_夢灯籠_-_Dream_Lantern_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢灯籠 (Dream Lantern)",
+      "artist": "RADWIMPS (ラッドウィンプス)",
+      "has_synced": true,
+      "path": "select/03_夢灯籠_(Dream_Lantern)_RADWIMPS_(ラッドウィンプス).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢灯籠 - Dream Lantern",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/04_夢灯籠_-_Dream_Lantern_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢灯籠 / Dream lantern",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_夢灯籠___Dream_lantern_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢灯籠",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_夢灯籠_RADWIMPS.txt"
+    }
+  ]
+}
