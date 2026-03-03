@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "夢灯籠",
   "base_artist": "RADWIMPS",
-  "createdAt": "2025-12-22T06:09:48.410040Z",
+  "createdAt": "2026-03-03T14:51:41.029580Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,14 @@
       "artist": "RADWIMPS",
       "has_synced": true,
       "path": "select/05_夢灯籠___Dream_lantern_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢灯籠",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_夢灯籠_RADWIMPS.lrc"
     },
     {
       "id": "petitlyrics_1",
